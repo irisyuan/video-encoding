@@ -1,1 +1,2 @@
-python zencoder client
+- Parse and filter raw CSV data from test video bandwidths
+- Play with Zencoder Python API client 
