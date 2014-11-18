@@ -1,4 +1,5 @@
-/* Console.log time the time it takes video to load on play, pause, etc. using HTML5 video media events API */
+/* Console.log the time it takes video to load on play, pause, etc. using HTML5 video media events API */
+/* http://www.w3.org/TR/2011/WD-html5-20110405/video.html#playing-the-media-resource */
 
 (function () {
 
